@@ -7,11 +7,13 @@
 ---
 ### :woman_technologist: About Me :
 
-I am an Machine Learning Engineer from Germany
+I am a Machine Learning Engineer/Deep learning enthusiast from Germany and in my free time I:
 
-  -Researching applications for Machine learning
+  -create helpful implementations of current deep learning technology
+  
+  -research applications for Machine learning
 
-  -Exploring new deep learning technologies
+  -explore new deep learning technologies
 
   
 ---
